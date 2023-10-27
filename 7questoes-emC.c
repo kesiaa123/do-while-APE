@@ -124,7 +124,7 @@ int main(){
         printf("d) 10\n");
         scanf(" %c", &alternativa);
 
-        if(alternativa == 'a'){
+        if(alternativa == 'b'){
             printf("parabens voce acertou!\n");
             certo++;
         }
