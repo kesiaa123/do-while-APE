@@ -57,7 +57,7 @@ int main(){
         printf("d) Multiplica dois valores.\n");
         scanf(" %c", &alternativa);
 
-        if(alternativa == 'a'){
+        if(alternativa == 'b'){
             printf("parabens voce acertou!\n");
             certo++;
         }
@@ -76,7 +76,7 @@ int main(){
         printf("d) <>\n");
         scanf(" %c", &alternativa);
 
-        if(alternativa == 'a'){
+        if(alternativa == 'b'){
             printf("parabens voce acertou!\n");
             certo++;
         }
